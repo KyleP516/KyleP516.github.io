@@ -1,1 +1,1 @@
-# This page is an "About me" page for Kyle Palmer
+# http://KyleP516.github.io
