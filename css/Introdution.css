@@ -1,1 +1,8 @@
-
+body {
+    margin-left:30px;
+    margin-right:30px;
+    background-color: honeydew      
+}
+div.a {
+    text-align: center;
+}
