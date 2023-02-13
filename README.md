@@ -1,1 +1,1 @@
-# Kyle_Palmer
+# This page is an "About me" page for Kyle Palmer
