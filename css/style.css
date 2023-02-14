@@ -6,3 +6,6 @@ body {
 div.a {
     text-align: center;
 }
+img {
+  border: 5px solid #555;
+}
